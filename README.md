@@ -13,7 +13,7 @@
 ## Installation
 
 ### Easy Way
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/subinps/Media-Search-bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ilhamr0f11/Media-Search-IR-Bot)
 ### Hard Way
 
 ```bash
